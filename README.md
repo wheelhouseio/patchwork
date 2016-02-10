@@ -1,2 +1,3 @@
-# patchwork
-Website for Patchwork Courses
+# Patchwork Courses
+
+## Info in `gh-pages` branch.
