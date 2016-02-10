@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Welcome to the Patchwork!
+# Welcome to the Patchwork!
 
 There are three online courses that you can choose from.
 
