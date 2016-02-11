@@ -10,7 +10,7 @@ There are three online courses that you can choose from.
 
 You should take this course if you've never used GitHub before. We'll teach you the basics of using GitHub for version control, including how to edit files on the web and what the "GitHub Workflow" is.
 
-[Take this course](http://learn.wheelhouse.io/events/workflow)
+[Take the GitHub Workflow course](http://learn.wheelhouse.io/events/workflow)
 
 ## GitHub Pages and Jekyll
 
