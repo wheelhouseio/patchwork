@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: Welcome to the Patchwork
 permalink: /about/
 ---
-
-# Welcome to the Patchwork!
 
 There are three online courses that you can choose from.
 
