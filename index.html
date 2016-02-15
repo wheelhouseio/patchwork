@@ -6,11 +6,10 @@ layout: default
 
 
     <div>
-      {% for static in site.statics %}
-        <h1>{{ static.title }}</h1>
-        {{ static.content | markdownify }}
-      {% endfor %}
+        {% for static in site.statics %}
+            <h1>{{ static.title }}</h1>
+            {{ static.content | markdownify }}
+        {% endfor %}
     </div>
-
 
 </div>
