@@ -11,6 +11,7 @@ github_username:  wheelhouseio
 # Build settings
 sass:
   sass_dir: _sass
-include: ['_statics']
+collections:
+  - statics
 kramdown:
   input: GFM
